@@ -1,0 +1,6 @@
+@FamilyNest_HostAddress = http://localhost:5201
+
+GET {{FamilyNest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
