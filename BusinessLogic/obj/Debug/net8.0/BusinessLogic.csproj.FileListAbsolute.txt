@@ -1,0 +1,11 @@
+C:\Users\timav\Desktop\FamilyNest\BusinessLogic\bin\Debug\net8.0\BusinessLogic.deps.json
+C:\Users\timav\Desktop\FamilyNest\BusinessLogic\bin\Debug\net8.0\BusinessLogic.dll
+C:\Users\timav\Desktop\FamilyNest\BusinessLogic\bin\Debug\net8.0\BusinessLogic.pdb
+C:\Users\timav\Desktop\FamilyNest\BusinessLogic\obj\Debug\net8.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timav\Desktop\FamilyNest\BusinessLogic\obj\Debug\net8.0\BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\timav\Desktop\FamilyNest\BusinessLogic\obj\Debug\net8.0\BusinessLogic.AssemblyInfo.cs
+C:\Users\timav\Desktop\FamilyNest\BusinessLogic\obj\Debug\net8.0\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\timav\Desktop\FamilyNest\BusinessLogic\obj\Debug\net8.0\BusinessLogic.dll
+C:\Users\timav\Desktop\FamilyNest\BusinessLogic\obj\Debug\net8.0\refint\BusinessLogic.dll
+C:\Users\timav\Desktop\FamilyNest\BusinessLogic\obj\Debug\net8.0\BusinessLogic.pdb
+C:\Users\timav\Desktop\FamilyNest\BusinessLogic\obj\Debug\net8.0\ref\BusinessLogic.dll
