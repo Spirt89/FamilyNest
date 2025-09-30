@@ -1,4 +1,4 @@
-<img src="./picture/Logo.png" alt="FamilyNest Logo" width="450">
+<div align="center"> <img src="./picture/Logo.png" alt="FamilyNest Logo" width="450"> </div>
 
 # FamilyNest
 
